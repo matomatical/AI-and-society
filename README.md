@@ -103,7 +103,7 @@ further some day.
     * Virtue Ethics
     * Ethics of Care
     * Principlism
-    * *There are more!*
+    * *There are more!* Preferences? Theology? Etc.
   * Practical ethical guidelines
 * Political philosophy---the law, policy, politics, governance (think about this structure more)
 * Ethical principles
@@ -124,6 +124,9 @@ further some day.
   * Facial recognition
   * Deepfakes
   * Automatic justice
+* *Automated ethics*
+  * *Superintelligence*
+  * *Reward learning and Beneficial AI*
 * More?
 
 ---
