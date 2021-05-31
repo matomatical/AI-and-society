@@ -51,7 +51,8 @@ from the University's
 * [Dr Kobi Leins](https://findanexpert.unimelb.edu.au/profile/626407-kobi-leins), and
 * Dr Michael Wildenauer,
 
-with Michael, Kate Ferris, and *yours truly* delivering the weekly tutorials.
+with Michael, Kate Ferris, and *yours truly* delivering the weekly tutorials,
+and Gabby Bush helping it all come together.
 
 #### Subject syllabus
 
@@ -90,6 +91,42 @@ yet gotten around to reading) and, importantly, key open questions (from my
 perspective) left unanswered by COMP90087 where I would like to investigate
 further some day.
 
+#### My rough syllabus
+
+* The history of AI
+* Philosophy of mind
+* Moral philosophy / ethics
+  * *Normative v. descriptive claims and ethical arguments*
+  * Traditional ethical frameworks
+    * Consequentialism and utilitarianism
+    * Deontology and Kant's Categorical Imperative
+    * Virtue Ethics
+    * Ethics of Care
+    * Principlism
+    * *There are more!*
+  * Practical ethical guidelines
+* Political philosophy---the law, policy, politics, governance (think about this structure more)
+* Ethical principles
+  * Trust
+  * Fairness / justice
+  * Accountability
+  * Privacy and data
+  * Transparency
+  * Explainability
+  * Accessibility
+  * Equity
+  * Rights
+  * *Autonomy*
+  * *Personhood*
+* Technologies and issues
+  * Automation
+  * *Surveillance*
+  * Facial recognition
+  * Deepfakes
+  * Automatic justice
+* More?
+
+---
 
 > #### Lesson number 1: AI problems are often just people problems
 > 
