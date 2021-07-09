@@ -16,10 +16,6 @@ learn some moral philosophy for my own self-improvement, so I was excited to
 apply to be a part of the teaching team, and I was honoured to be accepted as
 a COMP90087 tutor!
 
-Overall, the experience of teaching this subject left me with many thoughts
-and questions unresolved, and so one day I hope to find time to take a deeper
-dive into the underlying moral philosophy of the issues we have discussed.
-
 
 ## Teaching team
 
