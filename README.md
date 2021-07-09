@@ -37,13 +37,19 @@ you want some more of that progress or have any other questions.
 
 ## My notes on ethics and AI
 
-On reflection, I feel like the COMP90087 subject could have been organised
-into a more coherent narrative; and many of our discussions, though grounded
-in lots of realistic case studies, could have delved deeper into the
-underlying moral philosophy.
 
-In this section I will give a list of key topics and ideas from
-the subject, with more emphasis on fundamentals and less on case studies and
+Overall, the experience of teaching COMP90087 left me with many thoughts
+and questions unresolved
+(as can be expected of a subject aimed at students without a background in
+philosophy).
+Moreover I think the subject could have been organised into a more coherent
+narrative (though the current form was understandable given the collaborative
+nature of the subject's authorship).
+One day I hope to find time to take a deeper dive into the underlying
+moral philosophy of the issues we have discussed.
+
+In this section I will give a list of key topics and ideas from the subject
+(and beyond), with more emphasis on fundamentals and less on case studies and
 examples, as suits my particualr interest. I will also note down important
 lessons I have learned about the topics and the process of studying and
 teaching them. Finally, I will refer to key readings (not all of which I have
@@ -66,7 +72,8 @@ underqualified I am) to put together a subject like this myself:
     * Virtue Ethics
     * Ethics of Care
     * Principlism
-    * *There are more!* Preferences? Theology? Economic growth? Etc.
+    * *There are more!* Preferences? Theology? Stoicism? Economic growth?
+      Etc.
   * Practical ethical guidelines
 * Political philosophy---the law, policy, politics, governance (think
   about this structure more)
