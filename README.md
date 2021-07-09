@@ -1,88 +1,48 @@
-# The Ethics of Artificial Intelligence
+# Artificial Intelligence and Society
 
+This repository documents my (totally incomplete) exploration of the
+philosophy of ethics and society with a particular interest in the role
+and future of artificial intelience.
 
-This repository documents my (totally incomplete) exploration of the field of
-AI Ethics. So far most of the notes and resources are based on what I learned
-as a tutor for *COMP90087 The Ethics of Artificial Intelligence* at the
-University of Melbourne. This experience left me with many thoughts and
-questions and so one day I hope to find time to take a deeper dive into the
-underlying moral philosophy of the issues we have discussed.
+So far most of the notes and resources are based on what I learned as a
+tutor for
+[*COMP90087 The Ethics of Artificial Intelligence*](https://handbook.unimelb.edu.au/2021/subjects/comp90087)
+at the University of Melbourne, a subject discussing current issues in
+AI and society, framed through introductory level moral philosophy.
+
+In the future I will add further contents based on my own reading, research,
+and thought,
+and further coursework (such as the EA Cambridge
+[Fellowship on AGI Fundamentals](https://www.eacambridge.org/agi-safety-fundamentals).
+I will also extend the topics beyond near-term AI issues to the long-term
+future safety and impact of AI.
+
+If we're lucky this repository might eventually become a website, or even a
+book (don't hold your breath).
+
 
 #### Contents
 
 This repository is a work-in-progress. Please feel free to raise an issue if
 you want some more of that progress or have any other questions.
 
-* COMP90087 The Ethics of Artificial Intelligence---some information about the
-  subject, the staff, and the official syllabus.
-* My notes on ethics and AI---my list of key topics, lessons, and readings,
-  and some of my remaining questions.
-
-
-
-### COMP90087 The Ethics of Artificial Intelligence
-
-Semester 1, 2021, was the inaugural semester of the subject
-[*COMP90087 The Ethics of Artificial Intelligence*](https://handbook.unimelb.edu.au/2021/subjects/comp90087)
-at the University of Melbourne. This subject aims to introduce (mostly)
-technical postgraduate students to topics in AI history, moral philosophy,
-digital ethics, and digital law,
-with an emphasis on the particular ethical issues raised by applications of AI
-technologies.
-(I guess) the hope is that this education will help these students think more
-carefuly and responsibly about the ethical implications of their future work
-as technologists.
-
-That sounded like a great plan to me, and I had always wanted to sit down and
-learn some moral philosophy for my own self-improvement, so I was excited to
-apply to be a part of the teaching team, and I was honoured to be accepted as
-a COMP90087 tutor!
-
-#### Teaching team
-
-The subject was developed by an interdisciplinary team of researchers, mostly
-from the University's
-[*Center for Artificial Intelligence and Digital Ethics (CAIDE)*](https://law.unimelb.edu.au/centres/caide/):
-
-* [Professor Tim Miller](https://people.eng.unimelb.edu.au/tmiller/),
-* [Dr Simon Coghlan](https://findanexpert.unimelb.edu.au/profile/787891-simon-coghlan),
-* [Dr Marc Cheong](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong),
-* [Professor Jeannie Patterson](https://law.unimelb.edu.au/about/staff/jeannie-paterson),
-* [Dr Kobi Leins](https://findanexpert.unimelb.edu.au/profile/626407-kobi-leins), and
-* Dr Michael Wildenauer,
-
-with Michael, Kate Ferris, and *yours truly* delivering the weekly tutorials,
-and Gabby Bush helping it all come together.
-
-#### Subject syllabus
-
-Each week was broadly focussed around a single topic. There was a prerecorded
-lecture playlist from the subject developers along with a live seminar/chat,
-some readings (see below). Oh, and a tutorial, that's where I came in!
-Below is a list of topics by week:
-
-1. Trust, machines, and digital ethics (Tim)
-2. The History of Artificial Intelligence (Tim)
-3. Philosophy and ethics (Simon)
-4. Fairness and accountability (Simon)
-5. Data governance (Marc)
-6. Accessibility and equity (Marc)
-7. Transparency---decisions & processes (Marc)
-8. Explainability (Tim)
-9. Policy, politics, and AI (Jeannie and Michael)
-10. Frameworks and implementation (Michael)
-11. AI and human rights (Michael)
-12. Bringing it together (Simon)
-
+* [COMP90087 The Ethics of Artificial Intelligence](comp90087/):
+  Some information about the subject, the staff, and the official syllabus;
+  plus *readings!*
+* My notes on ethics and AI (below):
+  My list of key topics, lessons, and readings, and some of my remaining
+  questions.
 
 ---
 
-### My notes on ethics and AI
+## My notes on ethics and AI
 
-On reflection, I feel like the subject could have been organised into a more
-coherent narrative; and many of our discussions, though grounded in lots of
-realistic case studies, could have delved deeper into the underlying moral
-philosophy. In this section I will give a list of key topics and ideas from
+On reflection, I feel like the COMP90087 subject could have been organised
+into a more coherent narrative; and many of our discussions, though grounded
+in lots of realistic case studies, could have delved deeper into the
+underlying moral philosophy.
+
+In this section I will give a list of key topics and ideas from
 the subject, with more emphasis on fundamentals and less on case studies and
 examples, as suits my particualr interest. I will also note down important
 lessons I have learned about the topics and the process of studying and
@@ -91,7 +51,10 @@ yet gotten around to reading) and, importantly, key open questions (from my
 perspective) left unanswered by COMP90087 where I would like to investigate
 further some day.
 
-#### My rough syllabus
+### My rough syllabus
+
+Here's a rough high-level syllabus/narrative if I were to try (however
+underqualified I am) to put together a subject like this myself:
 
 * The history of AI
 * Philosophy of mind
@@ -103,9 +66,10 @@ further some day.
     * Virtue Ethics
     * Ethics of Care
     * Principlism
-    * *There are more!* Preferences? Theology? Etc.
+    * *There are more!* Preferences? Theology? Economic growth? Etc.
   * Practical ethical guidelines
-* Political philosophy---the law, policy, politics, governance (think about this structure more)
+* Political philosophy---the law, policy, politics, governance (think
+  about this structure more)
 * Ethical principles
   * Trust
   * Fairness / justice
@@ -124,14 +88,14 @@ further some day.
   * Facial recognition
   * Deepfakes
   * Automatic justice
-* *Automated ethics*
+* *Automated ethics?*
   * *Superintelligence*
   * *Reward learning and Beneficial AI*
 * More?
 
 ---
 
-> #### Lesson number 1: AI problems are often just people problems
+> ### Lesson number 1: AI problems are often just people problems
 > 
 > At many points during lectures, discussions, and readings throughout the
 > semester, I realised that if we took the AI out of the discussion (for
@@ -161,7 +125,7 @@ further some day.
 
 ---
 
-> #### Lesson number 2: Interdisciplinary communication is hard (duh)
+> ### Lesson number 2: Interdisciplinary communication is hard (duh)
 > 
 > In conversations with the teaching team, I often had much more trouble
 > comprehending and being comprehended than I am accustomed to. It turns out
