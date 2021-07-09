@@ -13,7 +13,7 @@ AI and society, framed through introductory level moral philosophy.
 In the future I will add further contents based on my own reading, research,
 and thought,
 and further coursework (such as the EA Cambridge
-[Fellowship on AGI Fundamentals](https://www.eacambridge.org/agi-safety-fundamentals).
+[Fellowship on AGI Fundamentals](https://www.eacambridge.org/agi-safety-fundamentals)).
 I will also extend the topics beyond near-term AI issues to the long-term
 future safety and impact of AI.
 
