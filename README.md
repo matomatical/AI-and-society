@@ -1,39 +1,46 @@
 # Artificial Intelligence and Society
 
 This repository documents my (totally incomplete) exploration of the
-philosophy of ethics and society with a particular interest in the role
-and future of artificial intelience.
+philosophy of ethics and society with a particular interest in the future
+role of artificial intelience. This will include both near-term and
+long-term future issues.
+The content is based on my reading, research, thought, coursework, 
 
-So far most of the notes and resources are based on what I learned as a
-tutor for
-[*COMP90087 The Ethics of Artificial Intelligence*](https://handbook.unimelb.edu.au/2021/subjects/comp90087)
-at the University of Melbourne, a subject discussing current issues in
-AI and society, framed through introductory level moral philosophy.
 
-In the future I will add further contents based on my own reading, research,
-and thought,
-and further coursework (such as the EA Cambridge
-[Fellowship on AGI Fundamentals](https://www.eacambridge.org/agi-safety-fundamentals)).
-I will also extend the topics beyond near-term AI issues to the long-term
-future safety and impact of AI.
-
-If we're lucky this repository might eventually become a website, or even a
-book (don't hold your breath).
+This repository is a perpetual work in progress.
+If we're lucky, one day it might become a website, or even a book (haha,
+sure).
+But seriously, if you want specific resources or progress or if you have
+questions, just raise an issue.
 
 
 #### Contents
 
-This repository is a work-in-progress. Please feel free to raise an issue if
-you want some more of that progress or have any other questions.
+* Coming soon:
+  [Resources](resources.md):
+  A collection of resources and links related to the topics of this project.
+  Includes notable readings, other reading and resource lists, etc.
 
 * [COMP90087 The Ethics of Artificial Intelligence](comp90087/):
-  Some information about the subject, the staff, and the official syllabus;
-  plus *readings!*
-* My notes on ethics and AI (below):
+  Unimelb's COMP90087 is an introduction to current issues in AI and society,
+  framed using introductory moral philosophy.
+  I joined the teaching team in the innaugural semester (2021).
+  Here you can find some information about the subject and staff, the
+  official syllabus, and a complete list of *readings!*
+
+* Coming soon:
+  [AGI Safety Fundamentals](agisf/):
+  A fellowship (more of a reading group) from EA Cambridge, on research into
+  the safety of generally intelligent AI systems.
+  Here, find readings, and possibly some of my notes if I decide to take
+  some throughout the program.
+  The readings are already available online now:
+  [Fellowship on AGI Fundamentals](https://www.eacambridge.org/agi-safety-fundamentals).
+
+* WIP: [My notes on ethics and AI](my-notes-on-thecis-and-ai):
   My list of key topics, lessons, and readings, and some of my remaining
   questions.
 
----
 
 ## My notes on ethics and AI
 
