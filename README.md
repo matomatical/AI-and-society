@@ -41,6 +41,10 @@ questions, just raise an issue.
   My list of key topics, lessons, and readings, and some of my remaining
   questions.
 
+* Unsorted [links](links.md): I am to filter these and add them to a sensible
+  place in the repository. Perhaps right here? It makes sense to have a very
+  accessible list of resources somewhere.
+
 
 ## My notes on ethics and AI
 
