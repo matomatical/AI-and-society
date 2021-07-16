@@ -45,13 +45,60 @@ I requested the latter since I already had copies of the former two.
 
 ## Week 0: Introduction to machine learning
 
-Skipped, but I should make a point to watch the lecture.
+[Reading list](https://www.eacambridge.org/agi-week-0)
 
 ## Week 1: AGI and superintelligence
 
 > What do we mean by artificial general intelligence, and how might we
 > achieve it?
 
-TODO: Reading, list resources.
+[Reading list](https://www.eacambridge.org/agi-week-1).
 
+Core readings:
+
+* Luke Muehlhauser, "What is AGI?",
+  MIRI [blog post](https://intelligence.org/2013/08/11/what-is-agi/), 2013.
+* Richard Ngo, "Superintelligence", *AGI Safety from First Principles*
+  [sequence](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ),
+  2020.
+* Paul Christiano, "Three Impacts of Machine Intelligence",
+  [rationalaltruist.com](https://rationalaltruist.com/2014/08/23/three-impacts-of-machine-intelligence/),
+  2014.
+* Richard Sutton, "The Bitter Lesson",
+  [incompleteideas.net](http://www.incompleteideas.net/IncIdeas/BitterLesson.html),
+  2019.
+
+Extra reading:
+
+* Rohin Shah, "Reframing Superintelligence",
+  [alignmentforum.org](https://www.alignmentforum.org/posts/x3fNwSe5aWZb5yXEG/reframing-superintelligence-comprehensive-ai-services-as),
+  2019.
+  * Summary of: Eric Drexler, "Reframing Superintelligence",
+    FHI Technical Report, 2019.
+* Paul Christiano, "Prosaic AI alignment",
+  [ai-alignment.com](https://ai-alignment.com/prosaic-ai-control-b959644d79c2),
+  2016.
+* OpenAI, "AI and Compute",
+  [OpenAI.com](https://openai.com/blog/ai-and-compute/), 2018.
+* OpenAI, "AI and Efficiency",
+  [OpenAI.com](https://openai.com/blog/ai-and-efficiency/), 2020.
+  * Corresponding paper: Hernandez and Brown, "Measuring the Algorithmic
+    Efficiency of Neural Networks", [arXiv](https://arxiv.org/abs/2005.04305),
+    2020.
+* Griffiths, "Understanding Human Intelligence through Human Limitations",
+  in press, 2020.
+* Eliezer Yudkowsky, "The Power of Intelligence",
+  MIRI [blog](https://intelligence.org/2007/07/10/the-power-of-intelligence/),
+  2007.
+
+Exercises:
+
+* A crucial feature of AGI is that it will possess cognitive skills which
+  are useful across a range of tasks, rather than just the tasks it was
+  trained to perform. Which cognitive skills do humans possess that are
+  useful both in our modern environment, and in the ancestral environment
+  in which we evolved?
+
+* Optional: what are the most likely ways that the hypothesis that we will
+  build AGIs which have transformative impacts on the world might be false?
 
