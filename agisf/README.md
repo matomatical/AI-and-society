@@ -102,3 +102,15 @@ Exercises:
 * Optional: what are the most likely ways that the hypothesis that we will
   build AGIs which have transformative impacts on the world might be false?
 
+Discussion:
+
+Should I write up notes?
+
+Extra links:
+
+* During the discussion I became interested in comparing *all* data available
+  over human lifetimes (including all sensory data and not just, say,
+  language or game states) plus the effective data encoded by priors through
+  evolution.
+  Adam suggested I look into Ajeya Cotra's biological anchors report.
+

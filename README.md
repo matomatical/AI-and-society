@@ -16,7 +16,7 @@ questions, just raise an issue.
 
 ## Repository guide:
 
-* \[WIP\] Resources (this document):
+* \[WIP\] Resources (below):
   A collection of resources and links related to the topics of this project.
   Includes notable readings, other reading and resource lists, etc.
 
@@ -116,6 +116,8 @@ Fora
 Alignment forum https://www.alignmentforum.org/
 
 Check the curated sequences and community sequences
+
+There's also an archive of old internet posts by Richard Ngo
 
 
 
