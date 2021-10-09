@@ -85,48 +85,55 @@ Other bibliographic sources:
    also contains lists of organisations and some reviews)
 
 
-
-
 ### Unsorted
 
 Wikipedia articles of interest
 
 * AI control problem https://en.wikipedia.org/wiki/AI_control_problem
 
-
 AI Safety Support
 
 * links page https://www.aisafetysupport.org/resources/lots-of-links
-
 * wishlist/bottleneck survey
   https://forum.effectivealtruism.org/posts/2pxGXYX2JrptvLpzZ/ai-safety-career-bottlenecks-survey-responses-responses
   (part career stuff, part resources and reading lists)
 
 MIRI
 
-motivations https://intelligence.org/why-ai-safety/
-
-research guide (big textbook and essay/paper reading list)
-https://intelligence.org/research-guide/
-
-
+* motivations https://intelligence.org/why-ai-safety/
+* research guide (big textbook and essay/paper reading list)
+  https://intelligence.org/research-guide/
 
 Fora
 
-Alignment forum https://www.alignmentforum.org/
-
-Check the curated sequences and community sequences
-
-There's also an archive of old internet posts by Richard Ngo
-
-
+* Alignment forum https://www.alignmentforum.org/
+  * Check the curated sequences and community sequences
+* There's also an archive of old AI internet posts by Richard Ngo
+* On the topic of Richard Ngo this might be worth a read
+  https://www.lesswrong.com/posts/k6NkvAcRaKBMAzqEF/my-intellectual-influences
 
 Other
 
-https://www.cser.ac.uk/research/risks-from-artificial-intelligence/
+* https://www.cser.ac.uk/research/risks-from-artificial-intelligence/
+* https://www.cnas.org/artificial-intelligence-and-global-security-reading-list
+* Apparently there's an active, open, AI safety slack (see AGISF slack for link)
+* https://80000hours.org/articles/ai-safety-syllabus/
+* https://ethics-of-ai.mooc.fi/
 
-https://www.cnas.org/artificial-intelligence-and-global-security-reading-list
+* The alignment newsletter is pretty great (especially the podcast)
+* Chris Olah on transparency for AI safety (see alignment newsletter 72)
 
-Apparently there's an active, open, AI safety slack (see AGISF slack for link)
+* https://docs.google.com/document/d/1FbTuRvC4TFWzGYerTKpBU7FJlyvjeOvVYF2uYNFSlOc/edit
 
-https://80000hours.org/articles/ai-safety-syllabus/
+* artibal.com/explore/ai_alignment
+
+* Causal influence diagrams
+  https://www.lesswrong.com/posts/Cd7Hw492RqooYgQAS
+* Natural abstraction
+  https://www.alignmentforum.org/posts/cy3BhHrGinZCp3LXE/testing-the-natural-abstraction-hypothesis-project-intro
+
+* https://www.cold-takes.com/roadmap-for-the-most-important-century-series/
+  blog and seris for another overview of it all
+
+* sutton's website has a list of some key papers
+  http://www.incompleteideas.net/publications.html
